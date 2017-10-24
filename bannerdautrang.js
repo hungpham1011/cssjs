@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/sHHhdV' target='_blank'><img src='https://www.facebook.com/bancaythongnoelgiaretaitphcm/photos/a.1750079388620281.1073741825.1750079321953621/1750356388592581/?type=1&theater' width='500px'/><br/>Bán cây thông noel đẹp TPHCM</a>. Hotline 0948 418 996 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/sHHhdV' target='_blank'><img src='http://bancaythong.net/wp-content/uploads/2017/10/cay-thong-noel-dep-nhat-2017-1.jpg' width='500px'/><br/>Bán cây thông noel đẹp TPHCM</a>. Hotline 0948 418 996 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
